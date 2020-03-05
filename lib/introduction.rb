@@ -4,8 +4,11 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
+#Define a method that takes and uses a parameter
+#Define a method that takes and uses two parameters
+#Define a method with an optional parameter
 
-
+def method (name,language)
 
 
 
