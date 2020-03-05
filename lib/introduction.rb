@@ -8,8 +8,8 @@
 #Define a method that takes and uses two parameters
 #Define a method with an optional parameter
 
-def method (name,language)
-puts "nothing"
+def chocolate(number_of_milk_packets=1) #method with default parameter
+“This will be good with {number_of_milk_packets} milk packets”
 end
 
 
