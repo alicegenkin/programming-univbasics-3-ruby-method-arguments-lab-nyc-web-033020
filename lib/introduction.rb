@@ -8,10 +8,18 @@
 #Define a method that takes and uses two parameters
 #Define a method with an optional parameter
 
-def chocolate(number_of_milk_packets=1) #method with default parameter
-“This will be good with {number_of_milk_packets} milk packets”
+
+def introduction(name)
+puts "Hi, my name is #{name}."
 end
 
+#def introduction_with_language(name, language)
+#  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+#end
+
+#def introduction_with_language_optional(name, language="Ruby")
+#  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+#end
 
 
 
