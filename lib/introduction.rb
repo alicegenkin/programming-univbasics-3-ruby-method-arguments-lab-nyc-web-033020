@@ -9,7 +9,8 @@
 #Define a method with an optional parameter
 
 def method (name,language)
-
+puts nothing
+end
 
 
 
