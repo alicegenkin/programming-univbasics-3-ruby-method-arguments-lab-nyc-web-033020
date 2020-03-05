@@ -9,7 +9,7 @@
 #Define a method with an optional parameter
 
 def introduction (name)
-  puts this is a phrase with a #{name}
+  puts "this is a phrase with a #{name}"
 end
 def introduction_with_language (name, language)
 puts "Hi, my name is #{name} and I am learning to program in #{language}."
